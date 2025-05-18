@@ -1,2 +1,2 @@
 # sodoKube
-3d Sodkube source code
+3d soku src code
